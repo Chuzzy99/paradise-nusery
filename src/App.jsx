@@ -26,7 +26,7 @@ function App() {
               <h1>Make room<br />for <em>green.</em></h1>
               <p className="hero-description">Bring a slower, softer kind of joy into your home with plants picked to thrive where you live.</p>
               <button className="button button-dark" onClick={() => setShowProducts(true)}>
-                Explore the plants <ArrowRight size={17} />
+                Get Started <ArrowRight size={17} />
               </button>
               <div className="hero-proof"><span className="proof-line" /> Carefully grown. Happily delivered.</div>
             </div>
